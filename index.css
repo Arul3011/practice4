@@ -154,7 +154,7 @@ button{
     .cointainer{
         display: block;
         margin: 0px 0px;
-        height: 100vh;
+        height: 100%;
         width: 375px;
         border-radius: 0px;
         padding: 0px;
@@ -194,7 +194,7 @@ button{
         margin-right: 0px;
     }
     .success{
-        height:100vh ;
+        height:100% ;
         width: auto;
         border-radius: 0px;
     }
